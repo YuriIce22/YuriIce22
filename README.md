@@ -1,6 +1,6 @@
 ## Opa! Meu nome é Yuri Santos, mas sou reconhecido por alguns como Ice ou Pinuk.
 
-### ✦ Desenvolvedor e estudante de Tecnologia! 💻
+### ✦ Desenvolvedor Júnior e estudante da Tecnologia! 💻
 
 ### ✦ Aluno Aprendiz na Companhia Paulista de Trens Metropolitanos. 🚈
 
