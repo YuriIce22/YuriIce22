@@ -23,7 +23,7 @@
 Desenvolvedor Full Stack <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> em constante evolução!
 
 
-## Tecnologias e Ferramentas:
+#### Tecnologias e Ferramentas:
 
 <div>
 <img align="center" alt="HTML5" src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original-wordmark.svg" width="70" height="70"/>
@@ -35,7 +35,7 @@ Desenvolvedor Full Stack <img src="https://media.giphy.com/media/WUlplcMpOCEmTGB
 <img align="center" alt="PyCharm" src="https://github.com/devicons/devicon/blob/master/icons/pycharm/pycharm-original.svg" width="70" height="70"/>
 <img align="center"  alt="Flask" src="https://github.com/devicons/devicon/blob/master/icons/flask/flask-original-wordmark.svg" width="70" height="70"/>
 
-## Com certo grau de conhecimento:
+#### Com certo grau de conhecimento:
 
 <img align="center" alt="Bootstrap" src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original-wordmark.svg" width="70" height="70"/>
 <img align="center" alt="TailwindCSS" src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-original-wordmark.svg" width="70" height="70"/>
