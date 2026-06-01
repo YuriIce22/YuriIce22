@@ -26,11 +26,11 @@
 #### 💻 Tecnologias e Ferramentas:
 
 <div>
-<img align="center" alt="HTML5" src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original-wordmark.svg" width="70" height="70"/>
-<img align="center" alt="CSS3" src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original-wordmark.svg" width="70" height="70"/>
+<img align="center" alt="HTML5" src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" width="70" height="70"/>
+<img align="center" alt="CSS3" src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" width="70" height="70"/>
 <img align="center" alt="Javascript" src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" width="70" height="70"/>
-<img align="center" alt="Python" src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" width="70" height="70"/>
-<img align="center" alt="PostgresSQL" src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original-wordmark.svg" width="70" height="70">
+<img align="center" alt="Python" src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" width="70" height="70"/>
+<img align="center" alt="PostgresSQL" src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg" width="70" height="70">
 <img align="center" alt="Visual Code" src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" width="70" height="70"/>
 <img align="center" alt="PyCharm" src="https://github.com/devicons/devicon/blob/master/icons/pycharm/pycharm-original.svg" width="70" height="70"/>
 <img align="center"  alt="Flask" src="https://github.com/devicons/devicon/blob/master/icons/flask/flask-original-wordmark.svg" width="70" height="70"/>
@@ -41,6 +41,7 @@
 <img align="center" alt="TailwindCSS" src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-original-wordmark.svg" width="70" height="70"/>
 <img align="center" alt="C++" src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" width="70" height="70"/>
 <img align="center" alt="dotnet" src="https://github.com/devicons/devicon/blob/master/icons/dot-net/dot-net-original.svg" width="70" height="70"/>
+<img align="center" alt="PyTest" src="https://github.com/devicons/devicon/blob/master/icons/pytest/pytest-original.svg" width="70" height="70"/>
 
 </div>
 
