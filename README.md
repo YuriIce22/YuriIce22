@@ -11,12 +11,12 @@
 
   <img src="https://komarev.com/ghpvc/?username=YuriIce22&style=flat-square&color=blue" alt="ContadorDeVisitas"/>
   
+  <h1>
+    Opa! Meu nome é Yuri Santos! 
+    <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
+  </h1>
+  
 </div>
-
-<h1>
-  Opa! Meu nome é Yuri Santos! 
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
-</h1>
 
 ### ✦ Desenvolvedor Júnior e Estudante da Tecnologia! 💻
 
