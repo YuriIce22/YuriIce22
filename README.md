@@ -35,7 +35,7 @@
 <img align="center" alt="PyCharm" src="https://github.com/devicons/devicon/blob/master/icons/pycharm/pycharm-original.svg" width="70" height="70"/>
 <img align="center"  alt="Flask" src="https://github.com/devicons/devicon/blob/master/icons/flask/flask-original-wordmark.svg" width="70" height="70"/>
 
-#### Com certo grau de conhecimento:
+#### 💻 Com certo grau de conhecimento:
 
 <img align="center" alt="Bootstrap" src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original-wordmark.svg" width="70" height="70"/>
 <img align="center" alt="TailwindCSS" src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-original-wordmark.svg" width="70" height="70"/>
