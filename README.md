@@ -20,7 +20,7 @@
 
 ## Tecnologias que utilizo com frequência:
 
-<div style="display": inline_block">
+<div>
 <img align="center" alt="HTML5" src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original-wordmark.svg" width="120" height="120"/>
 <img align="center" alt="CSS3" src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original-wordmark.svg" width="120" height="120"/>
 <img align="center" alt="Javascript" src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" width="120" height="120"/>
