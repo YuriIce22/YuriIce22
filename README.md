@@ -18,7 +18,7 @@
 
 ### ✦ Desenvolvedor Júnior e Estudante da Tecnologia! 💻
 
-## ✦ Sobre mim! 🔥
+### ✦ Sobre mim! 🔥
 
 Desenvolvedor Full Stack <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> em constante evolução!
 
