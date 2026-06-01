@@ -50,4 +50,5 @@ Meus trabalhos aqui no [![Github](https://img.shields.io/badge/GitHub-100000?sty
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=YuriIce22&theme=dark&locale=pt_BR)](https://git.io/streak-stats)
 [![Anurag's GitHub stats](https://github-stats-extended.vercel.app/api?username=anuraghazra&show_icons=true&theme=dark)
+[![Top Langs](https://github-stats-extended.vercel.app/api?username=YuriIce22&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
