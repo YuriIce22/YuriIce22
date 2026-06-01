@@ -53,10 +53,3 @@ Meus trabalhos aqui no [![Github](https://img.shields.io/badge/GitHub-100000?sty
 [![Linguagens mais usadas!](https://github-stats-extended.vercel.app/api/top-langs/?username=YuriIce22&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
 </div>
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/YuriIce22/YuriIce22/pacman-output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/YuriIce22/YuriIce22/pacman-output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/YuriIce22/YuriIce22/pacman-output/pacman-contribution-graph.svg">
-</picture>
-
