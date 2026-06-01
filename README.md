@@ -1,6 +1,8 @@
-<img src="/logo.png" alt="Descrição da imagem" width="500">
 
-[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yuri-santos-da-silva-94696a335/)
+<div id="header" align="center">
+  <img src="/logo.png" alt="Descrição da imagem" width="500">
+    [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yuri-santos-da-silva-94696a335/)
+</div>
 <img src="https://komarev.com/ghpvc/?username=YuriIce22&style=flat-square&color=blue" alt="ContadorDeVisitas"/>
 
 
