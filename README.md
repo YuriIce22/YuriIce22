@@ -48,6 +48,7 @@
 ## 🔥 Repositórios e Stats:
 Meus trabalhos aqui no [![Github](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/YuriIce22?tab=repositories)!
 
+[![Linguagens mais usadas!](https://github-stats-extended.vercel.app/api/top-langs/?username=YuriIce22&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats) <br>
 [![Sequência do Github!](https://github-readme-streak-stats.herokuapp.com?user=YuriIce22&theme=dark&locale=pt_BR)](https://git.io/streak-stats)
-[![Linguagens mais usadas!](https://github-stats-extended.vercel.app/api/top-langs/?username=YuriIce22&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+
 
