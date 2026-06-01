@@ -16,11 +16,11 @@
   
 </div>
 
-### ✦ Desenvolvedor Júnior e Estudante da Tecnologia! 💻
+### ✦  Desenvolvedor Júnior e Estudante da Tecnologia! 💻
 
-### ✦ Sobre mim! 🔥
+### ✦  Sobre mim! 🔥
 
-Desenvolvedor Full Stack <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> em constante evolução!
+  Desenvolvedor Full Stack <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> em constante evolução!
 
 
 #### Tecnologias e Ferramentas:
