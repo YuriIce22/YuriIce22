@@ -1,15 +1,17 @@
 
 <div id="header" align="center">
   <img src="/logo.png" alt="Descrição da imagem" width="500">
-</div>
 
-<div id="badges">
-  <a href="https://www.linkedin.com/in/yuri-santos-pin777/">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-  </a>
-</div>
 
-<img src="https://komarev.com/ghpvc/?username=YuriIce22&style=flat-square&color=blue" alt="ContadorDeVisitas"/>
+  <div id="badges">
+    <a href="https://www.linkedin.com/in/yuri-santos-pin777/">
+      <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+    </a>
+  </div>
+
+  <img src="https://komarev.com/ghpvc/?username=YuriIce22&style=flat-square&color=blue" alt="ContadorDeVisitas"/>
+  
+</div>
 
 <h1>
   Opa! Meu nome é Yuri Santos! 
