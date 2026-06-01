@@ -2,35 +2,43 @@
 <div id="header" align="center">
   <img src="/logo.png" alt="Descrição da imagem" width="500">
 </div>
-[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yuri-santos-da-silva-94696a335/)
+
+<div id="badges">
+  <a href="https://www.linkedin.com/in/yuri-santos-pin777/">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+</div>
+
 <img src="https://komarev.com/ghpvc/?username=YuriIce22&style=flat-square&color=blue" alt="ContadorDeVisitas"/>
 
+<h1>
+  Opa! Meu nome é Yuri Santos! 
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
+</h1>
 
-## Opa! Meu nome é Yuri Santos!
-
-### ✦ Desenvolvedor Júnior e estudante da Tecnologia! 💻
+### ✦ Desenvolvedor Júnior e Estudante da Tecnologia! 💻
 
 ## Tecnologias que utilizo com frequência:
 
 <div style="display": inline_block">
-<img align="center" alt="HTML5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
-<img align="center" alt="CSS3" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
-<img align="center" alt="Javascript" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"/>
-<img align="center" alt="Python" src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue"/>
-<img align="center" alt="PostgresSQL" src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white"/>
+<img align="center" alt="HTML5" src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original-wordmark.svg"/>
+<img align="center" alt="CSS3" src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original-wordmark.svg"/>
+<img align="center" alt="Javascript" src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg"/>
+<img align="center" alt="Python" src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg"/>
+<img align="center" alt="PostgresSQL" src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original-wordmark.svg"/>
 
 ## Com certo grau de conhecimento:
 
-<img align="center" alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white"/>
-<img align="center" alt="TailwindCSS" src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white"/>
-<img align="center" alt="C++" src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
-<img align="center" alt="dotnet" src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white"/>
+<img align="center" alt="Bootstrap" src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original-wordmark.svg"/>
+<img align="center" alt="TailwindCSS" src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-original-wordmark.svg"/>
+<img align="center" alt="C++" src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg"/>
+<img align="center" alt="dotnet" src="https://github.com/devicons/devicon/blob/master/icons/dot-net/dot-net-original-wordmark.svg"/>
 
 ## Ferramentas:
 
-<img align="center" alt="Visual Code" src="https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white"/>
-<img align="center" alt="PyCharm" src="https://img.shields.io/badge/PyCharm-000000.svg?&style=for-the-badge&logo=PyCharm&logoColor=white"/>
-<img align="center"  alt="Flask" src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white"/>
+<img align="center" alt="Visual Code" src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg"/>
+<img align="center" alt="PyCharm" src="https://github.com/devicons/devicon/blob/master/icons/pycharm/pycharm-original.svg"/>
+<img align="center"  alt="Flask" src="https://github.com/devicons/devicon/blob/master/icons/flask/flask-original-wordmark.svg"/>
 
 ## Repositórios:
 Meus trabalhos aqui no **Github!** <br> <br>
@@ -38,5 +46,4 @@ Meus trabalhos aqui no **Github!** <br> <br>
 
 </div>
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=YuriIce22&theme=dark&background=000000)](https://git.io/streak-stats)
-
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=YuriIce22&theme=dark&locale=pt_BR)](https://git.io/streak-stats)
