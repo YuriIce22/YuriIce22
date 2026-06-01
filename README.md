@@ -40,7 +40,7 @@
 <img align="center" alt="Bootstrap" src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original-wordmark.svg" width="70" height="70"/>
 <img align="center" alt="TailwindCSS" src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-original-wordmark.svg" width="70" height="70"/>
 <img align="center" alt="C++" src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" width="70" height="70"/>
-<img align="center" alt="dotnet" src="https://github.com/devicons/devicon/blob/master/icons/dot-net/dot-net-original-wordmark.svg" width="70" height="70"/>
+<img align="center" alt="dotnet" src="https://github.com/devicons/devicon/blob/master/icons/dot-net/dot-net-original.svg" width="70" height="70"/>
 
 
 ## Repositórios:
