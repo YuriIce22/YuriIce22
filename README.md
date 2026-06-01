@@ -18,8 +18,6 @@
 
 ### 🖥️  Desenvolvedor Júnior e Estudante da Tecnologia! 
 
-<img src="bannerSpace.gif" alt="banner"/>
-
 ### ✦  Sobre mim! 
 
   Desenvolvedor Full Stack <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> em constante evolução!
@@ -55,8 +53,8 @@ Meus trabalhos aqui no [![Github](https://img.shields.io/badge/GitHub-100000?sty
 
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/YuriIce22/YuriIce22/pacman-output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/YuriIce22/YuriIce22/pacman-output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/YuriIce22/YuriIce22/pacman-output/pacman-contribution-graph.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/maurodesouza/maurodesouza/pacman-output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/maurodesouza/maurodesouza/pacman-output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/pacman-output/pacman-contribution-graph.svg">
 </picture>
 
