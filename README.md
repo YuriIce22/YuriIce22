@@ -21,24 +21,24 @@
 ## Tecnologias que utilizo com frequência:
 
 <div style="display": inline_block">
-<img align="center" alt="HTML5" src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original-wordmark.svg"/>
-<img align="center" alt="CSS3" src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original-wordmark.svg"/>
-<img align="center" alt="Javascript" src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg"/>
-<img align="center" alt="Python" src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg"/>
-<img align="center" alt="PostgresSQL" src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original-wordmark.svg"/>
+<img align="center" alt="HTML5" src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original-wordmark.svg" width="40" height="40"/>
+<img align="center" alt="CSS3" src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original-wordmark.svg" width="40" height="40"/>
+<img align="center" alt="Javascript" src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" width="40" height="40"/>
+<img align="center" alt="Python" src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" width="40" height="40"/>
+<img align="center" alt="PostgresSQL" src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original-wordmark.svg" width="40" height="40"/>
 
 ## Com certo grau de conhecimento:
 
-<img align="center" alt="Bootstrap" src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original-wordmark.svg"/>
-<img align="center" alt="TailwindCSS" src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-original-wordmark.svg"/>
-<img align="center" alt="C++" src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg"/>
-<img align="center" alt="dotnet" src="https://github.com/devicons/devicon/blob/master/icons/dot-net/dot-net-original-wordmark.svg"/>
+<img align="center" alt="Bootstrap" src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original-wordmark.svg" width="40" height="40"/>
+<img align="center" alt="TailwindCSS" src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-original-wordmark.svg" width="40" height="40"/>
+<img align="center" alt="C++" src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" width="40" height="40"/>
+<img align="center" alt="dotnet" src="https://github.com/devicons/devicon/blob/master/icons/dot-net/dot-net-original-wordmark.svg" width="40" height="40"/>
 
 ## Ferramentas:
 
-<img align="center" alt="Visual Code" src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg"/>
-<img align="center" alt="PyCharm" src="https://github.com/devicons/devicon/blob/master/icons/pycharm/pycharm-original.svg"/>
-<img align="center"  alt="Flask" src="https://github.com/devicons/devicon/blob/master/icons/flask/flask-original-wordmark.svg"/>
+<img align="center" alt="Visual Code" src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" width="40" height="40"/>
+<img align="center" alt="PyCharm" src="https://github.com/devicons/devicon/blob/master/icons/pycharm/pycharm-original.svg" width="40" height="40"/>
+<img align="center"  alt="Flask" src="https://github.com/devicons/devicon/blob/master/icons/flask/flask-original-wordmark.svg" width="40" height="40"/>
 
 ## Repositórios:
 Meus trabalhos aqui no **Github!** <br> <br>
