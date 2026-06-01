@@ -42,11 +42,11 @@
 <img align="center" alt="C++" src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" width="70" height="70"/>
 <img align="center" alt="dotnet" src="https://github.com/devicons/devicon/blob/master/icons/dot-net/dot-net-original.svg" width="70" height="70"/>
 
-
-## Repositórios:
-Meus trabalhos aqui no [![Github](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/YuriIce22?tab=repositories)!
-
 </div>
+
+## Repositórios e Stats:
+Meus trabalhos aqui no [![Github](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/YuriIce22?tab=repositories)!
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=YuriIce22&theme=dark&locale=pt_BR)](https://git.io/streak-stats)
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=YuriIce22)](https://github.com/anuraghazra/github-readme-stats)
+
