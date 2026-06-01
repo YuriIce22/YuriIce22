@@ -1,12 +1,12 @@
-## Opa! Meu nome é Yuri Santos, mas sou reconhecido por alguns como Ice ou Pinuk.
-
-### ✦ Desenvolvedor Júnior e estudante da Tecnologia! 💻
-
-### ✦ Aluno Aprendiz na Companhia Paulista de Trens Metropolitanos. 🚈
-
-### ✦ Cursando Desenvolvimento de Sistemas no Senai. 🏫
+<img src="/logo.png" alt="Descrição da imagem" width="500">
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yuri-santos-da-silva-94696a335/)
+<img src="https://komarev.com/ghpvc/?username=YuriIce22&style=flat-square&color=blue" alt="ContadorDeVisitas"/>
+
+
+## Opa! Meu nome é Yuri Santos!
+
+### ✦ Desenvolvedor Júnior e estudante da Tecnologia! 💻
 
 ## Tecnologias que utilizo com frequência:
 
@@ -31,9 +31,10 @@
 <img align="center"  alt="Flask" src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white"/>
 
 ## Repositórios:
-Meus trabalhos aqui no **Github!** <br>
+Meus trabalhos aqui no **Github!** <br> <br>
 [![Github](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/YuriIce22?tab=repositories)
 
 </div>
 
-[![Yuri's GitHub stats](https://github-readme-stats.vercel.app/api?username=YuriIce22)](https://github.com/anuraghazra/github-readme-stats)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=YuriIce22&theme=dark&background=000000)](https://git.io/streak-stats)
+
