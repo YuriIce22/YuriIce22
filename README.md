@@ -1,5 +1,4 @@
 <div id="header" align="center">
-  <img src="/logo.png" alt="Descrição da imagem" width="500">
 
   <div id="badges">
     <a href="https://www.linkedin.com/in/yuri-santos-pin777/">
